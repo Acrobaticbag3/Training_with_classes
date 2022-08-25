@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Yx5X5oRfMxByzIXmb7Q2SBecW8D1NtHMWu/iy2BH5NlgD9zrG6yIugJvc7p/mBqdDoV76zlR34+wUt3DsqFxsA==",
+  "dgSpecHash": "/r+fXfsF5wZtpxhMUO4+7EcfjiYuCW7LbJhM4/fmWKDPayIFWe0Je891nMnmUKVCA+1TIbVlxA5WEihB3ANEsg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\Training_with_classes\\Training_with_classes.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\GitHub\\Training_with_classes\\Training_with_classes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

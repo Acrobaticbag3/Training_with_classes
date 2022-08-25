@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\GitHub\Training_with_classes\bin\Debug\net5.0\Training_with_classes.exe
+C:\Users\Admin\Documents\GitHub\Training_with_classes\bin\Debug\net5.0\Training_with_classes.deps.json
+C:\Users\Admin\Documents\GitHub\Training_with_classes\bin\Debug\net5.0\Training_with_classes.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\Training_with_classes\bin\Debug\net5.0\Training_with_classes.runtimeconfig.dev.json
+C:\Users\Admin\Documents\GitHub\Training_with_classes\bin\Debug\net5.0\Training_with_classes.dll
+C:\Users\Admin\Documents\GitHub\Training_with_classes\bin\Debug\net5.0\Training_with_classes.pdb
+C:\Users\Admin\Documents\GitHub\Training_with_classes\obj\Debug\net5.0\Training_with_classes.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Training_with_classes\obj\Debug\net5.0\Training_with_classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\Training_with_classes\obj\Debug\net5.0\Training_with_classes.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\Training_with_classes\obj\Debug\net5.0\Training_with_classes.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\Training_with_classes\obj\Debug\net5.0\Training_with_classes.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Training_with_classes\obj\Debug\net5.0\Training_with_classes.dll
+C:\Users\Admin\Documents\GitHub\Training_with_classes\obj\Debug\net5.0\refint\Training_with_classes.dll
+C:\Users\Admin\Documents\GitHub\Training_with_classes\obj\Debug\net5.0\Training_with_classes.pdb
+C:\Users\Admin\Documents\GitHub\Training_with_classes\obj\Debug\net5.0\Training_with_classes.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\Training_with_classes\obj\Debug\net5.0\ref\Training_with_classes.dll
